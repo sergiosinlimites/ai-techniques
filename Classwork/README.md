@@ -7,7 +7,7 @@
 ![Estado](https://img.shields.io/badge/Estado-Activo-brightgreen?style=for-the-badge)
 
 **Repositorio oficial de trabajos, tareas y proyectos de la asignatura**  
-**Técnicas de Inteligencia Artificial · Código 2017290 · 3 Créditos**
+**Técnicas de Inteligencia Artificial**
 
 _Facultad de Ingeniería · Universidad Nacional de Colombia · Sede Bogotá_
 
