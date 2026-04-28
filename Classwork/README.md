@@ -43,7 +43,6 @@ Aquí encontrarás tareas, quices, proyectos aplicados y exposiciones organizado
 | **Código** | 2017290 |
 | **Créditos** | 3 |
 | **Profesor** | Flavio Augusto Prieto Ortiz, PhD |
-| **Grupo de investigación** | GAUNAL — Automática, Universidad Nacional |
 | **Horario** | Martes y Jueves · 16:00 – 18:00 |
 | **Contacto profesor** | faprietoo@unal.edu.co |
 | **Oficina** | 453-404 · Tel. 316 5000 Ext. 14103 |
