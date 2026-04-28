@@ -1,0 +1,24 @@
+---
+description: General rules for AI behavior in TIA course project
+globs: *
+alwaysApply: true
+---
+# General rules for AI in TIA project
+
+This is an educational project for Techniques of Artificial Intelligence (TIA) course.
+
+- Read the project conventions first: [project-conventions.mdc](mdc:.cursor/rules/project-conventions.mdc)
+- Use Spanish for comments and documentation when appropriate
+- Follow course naming conventions for new files
+- Keep original file naming from course materials
+
+## Working with Jupyter Notebooks
+
+- Include clear markdown headers for explanations
+- Comment code thoroughly for learning purposes
+- Keep cells focused and modular
+
+## Working with PDFs
+
+- Read and extract information from PDFs as needed
+- Use PDF content to answer questions about course material

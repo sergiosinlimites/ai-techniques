@@ -1,0 +1,40 @@
+---
+description: Project conventions for TIA course - Jupyter Notebooks and PDFs
+globs: "*.ipynb", "*.pdf", "*.md"
+alwaysApply: true
+---
+
+This rule defines the project conventions for the Techniques of Artificial Intelligence (TIA) course.
+
+## Project Structure
+
+This is an educational course project containing:
+
+- **PDFs**: Course materials, lecture slides, programs
+- **Jupyter Notebooks**: Code examples and exercises
+- **Modules**:
+  - NLP Intro (Natural Language Processing)
+  - Machine Learning
+  - Neural Networks
+  - Image Digital Processing
+  - Expert Systems
+
+## File Organization
+
+- Course materials organized by module in separate directories
+- PDFs: `*.pdf` files for theory and slides
+- Notebooks: `*.ipynb` files for practical exercises
+- Data: Supporting datasets in appropriate folders
+
+## Working with Jupyter Notebooks
+
+- Use standard Jupyter notebook structure
+- Include clear markdown headers for explanations
+- Comment code thoroughly for learning purposes
+- Keep cells focused and modular
+
+## Conventions
+
+- Keep original file naming from course
+- Follow course naming conventions for new files
+- Use Spanish for comments and documentation when appropriate
